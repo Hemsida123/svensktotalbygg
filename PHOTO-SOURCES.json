@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "page": "https://unsplash.com/photos/modern-white-kitchen-with-island-and-bar-stools-zAvzWN6CE5w",
+    "image": "https://images.unsplash.com/photo-1773579305267-8d75e0af5be4?mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&mark-w=64&mark-align=top%2Cleft&mark-pad=50&h=630&w=1200&crop=faces%2Cedges&blend-w=1&blend=000000&blend-mode=normal&blend-alpha=10&auto=format&fit=crop&q=60&ixid=NHwxMjA3fDA&ixlib=rb-4.1.0",
+    "download": "https://images.unsplash.com/photo-1773579305267-8d75e0af5be4?auto=format&fit=max&w=2200&q=88"
+  },
+  "kitchen": {
+    "page": "https://unsplash.com/photos/a-modern-kitchen-with-white-cabinets-and-wooden-countertops-0Yob6M9QZVI",
+    "image": "https://images.unsplash.com/photo-1778088442657-eb0b0491b48c?mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&mark-w=64&mark-align=top%2Cleft&mark-pad=50&h=630&w=1200&crop=faces%2Cedges&blend-w=1&blend=000000&blend-mode=normal&blend-alpha=10&auto=format&fit=crop&q=60&ixid=NHwxMjA3fDA&ixlib=rb-4.1.0",
+    "download": "https://images.unsplash.com/photo-1778088442657-eb0b0491b48c?auto=format&fit=max&w=2200&q=88"
+  },
+  "bathroom": {
+    "page": "https://unsplash.com/photos/a-modern-bathroom-with-a-vanity-and-tiled-floor-DsrHsPt3uFg",
+    "image": "https://images.unsplash.com/photo-1758239873506-82d0e76244f6?mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&mark-w=64&mark-align=top%2Cleft&mark-pad=50&h=630&w=1200&crop=faces%2Cedges&blend-w=1&blend=000000&blend-mode=normal&blend-alpha=10&auto=format&fit=crop&q=60&ixid=NHwxMjA3fDA&ixlib=rb-4.1.0",
+    "download": "https://images.unsplash.com/photo-1758239873506-82d0e76244f6?auto=format&fit=max&w=2200&q=88"
+  },
+  "outdoor": {
+    "page": "https://unsplash.com/photos/modern-glass-building-with-wooden-deck-and-trees-BTEo2EtKyEY",
+    "image": "https://images.unsplash.com/photo-1757940809566-70aaf9501138?mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&mark-w=64&mark-align=top%2Cleft&mark-pad=50&h=630&w=1200&crop=faces%2Cedges&blend-w=1&blend=000000&blend-mode=normal&blend-alpha=10&auto=format&fit=crop&q=60&ixid=NHwxMjA3fDA&ixlib=rb-4.1.0",
+    "download": "https://images.unsplash.com/photo-1757940809566-70aaf9501138?auto=format&fit=max&w=2200&q=88"
+  },
+  "renovation": {
+    "page": "https://unsplash.com/photos/interior-renovation-with-construction-materials-and-supplies-hPfrYoKkxp0",
+    "image": "https://images.unsplash.com/photo-1768321902156-9358b5373d0a?mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&mark-w=64&mark-align=top%2Cleft&mark-pad=50&h=630&w=1200&crop=faces%2Cedges&blend-w=1&blend=000000&blend-mode=normal&blend-alpha=10&auto=format&fit=crop&q=60&ixid=NHwxMjA3fDA&ixlib=rb-4.1.0",
+    "download": "https://images.unsplash.com/photo-1768321902156-9358b5373d0a?auto=format&fit=max&w=2200&q=88"
+  },
+  "carpentry": {
+    "page": "https://unsplash.com/photos/lgnEI45raTI",
+    "image": "https://images.unsplash.com/photo-1517958189574-a9423e47b514?mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&mark-w=64&mark-align=top%2Cleft&mark-pad=50&h=630&w=1200&crop=faces%2Cedges&blend-w=1&blend=000000&blend-mode=normal&blend-alpha=10&auto=format&fit=crop&q=60&ixid=NHwxMjA3fDA&ixlib=rb-4.1.0",
+    "download": "https://images.unsplash.com/photo-1517958189574-a9423e47b514?auto=format&fit=max&w=2200&q=88"
+  },
+  "ground": {
+    "page": "https://unsplash.com/photos/construction-worker-laying-stone-pavers-jtW4PNZLZmQ",
+    "image": "https://images.unsplash.com/photo-1793286528958-f11858e55856?mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&mark-w=64&mark-align=top%2Cleft&mark-pad=50&h=630&w=1200&crop=faces%2Cedges&blend-w=1&blend=000000&blend-mode=normal&blend-alpha=10&auto=format&fit=crop&q=60&ixid=NHwxMjA3fDA&ixlib=rb-4.1.0",
+    "download": "https://images.unsplash.com/photo-1793286528958-f11858e55856?auto=format&fit=max&w=2200&q=88"
+  },
+  "painting": {
+    "page": "https://unsplash.com/photos/black-and-white-box-on-brown-wooden-table-eQ-8iUrb07g",
+    "image": "https://images.unsplash.com/photo-1599619585752-c3edb42a414c?mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&mark-w=64&mark-align=top%2Cleft&mark-pad=50&h=630&w=1200&crop=faces%2Cedges&blend-w=1&blend=000000&blend-mode=normal&blend-alpha=10&auto=format&fit=crop&q=60&ixid=NHwxMjA3fDA&ixlib=rb-4.1.0",
+    "download": "https://images.unsplash.com/photo-1599619585752-c3edb42a414c?auto=format&fit=max&w=2200&q=88"
+  },
+  "exterior": {
+    "page": "https://unsplash.com/photos/person-on-roof-painting-a-house-window-5eSNyI7XVfQ",
+    "image": "https://images.unsplash.com/photo-1778342259272-142fa3f81859?mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&mark-w=64&mark-align=top%2Cleft&mark-pad=50&h=630&w=1200&crop=faces%2Cedges&blend-w=1&blend=000000&blend-mode=normal&blend-alpha=10&auto=format&fit=crop&q=60&ixid=NHwxMjA3fDA&ixlib=rb-4.1.0",
+    "download": "https://images.unsplash.com/photo-1778342259272-142fa3f81859?auto=format&fit=max&w=2200&q=88"
+  },
+  "garage": {
+    "page": "https://unsplash.com/photos/modern-house-with-a-car-parked-in-driveway-A59ssOnsONk",
+    "image": "https://images.unsplash.com/photo-1769806399181-f04bb541122b?mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&mark-w=64&mark-align=top%2Cleft&mark-pad=50&h=630&w=1200&crop=faces%2Cedges&blend-w=1&blend=000000&blend-mode=normal&blend-alpha=10&auto=format&fit=crop&q=60&ixid=NHwxMjA3fDA&ixlib=rb-4.1.0",
+    "download": "https://images.unsplash.com/photo-1769806399181-f04bb541122b?auto=format&fit=max&w=2200&q=88"
+  }
+}
